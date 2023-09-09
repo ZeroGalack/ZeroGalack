@@ -1,5 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/rafaelalexandrino/rafaelalexandrino/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ZeroGalack/ZeroGalack/blob/main/Hi,%20I%E2%80%99m.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
 <p align="center"> Enthusiast of technology and progress. <br><br> My skills include programming in Python, with an emphasis on Computer Vision, and skills in C++, with specialization in the development of embedded systems. Currently, I work as a solution developer in these areas.</p>&nbsp;
