@@ -2,7 +2,7 @@
 <img align="center" style="margin-bottom:100px" width=100% src="https://github.com/ZeroGalack/ZeroGalack/blob/main/Hi,%20I%E2%80%99m.png?raw=true" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center"> Enthusiast of technology and progress. <br><br> My skills include programming in Python, with an emphasis on Computer Vision, and skills in C++, with specialization in the development of embedded systems. Currently, I work as a solution developer in these areas.</p>&nbsp;
+<p align="center"> <strong>Enthusiast of technology and progress.</strong> <br><br> My skills include programming in Python, with an emphasis on Computer Vision, and skills in C++, with specialization in the development of embedded systems. Currently, I work as a solution developer in these areas.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=ZeroGalack&theme=radical&mode=weekly" />
